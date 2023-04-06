@@ -24,6 +24,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Remove="Images\web.png" />
+    <None Remove="Styles\Themes.xaml" />
     <None Remove="Views\HomePage.xaml" />
     <None Remove="Views\WebView2Page.xaml" />
   </ItemGroup>
@@ -49,6 +50,9 @@
     <None Update="appsettings.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <Page Update="Styles\Themes.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Update="Views\HomePage.xaml">
       <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
     </Page>
