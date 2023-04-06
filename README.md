@@ -26,3 +26,5 @@
 |  | 搜索建议（来自搜索引擎） |
 |  | 搜索建议（来自历史记录） |
 | 8.前进后退按钮 |功能失效|
+| 9.背景 | 亚克力背景对齐到设计图(应当近似于UWP中的{themeresources systemdefaultwindowbrush}) |
+|  | 新增 Mica 背景 |
