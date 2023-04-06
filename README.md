@@ -20,7 +20,7 @@
 |  | 展示为带缩略图的列表项 |
 | 4.标签项| UI对齐到设计图 | ![image](https://user-images.githubusercontent.com/6630660/230350084-9048f880-32bf-4e08-aadd-9f5c495d5f02.png) |![52512b7f71ba33c768fa647be7182efa](https://user-images.githubusercontent.com/6630660/230349960-519d56ad-b4ae-4f19-b868-ad2c57fa21fe.png) |
 | 5.新标签页 |移除搜索框|
-| 6.多功能框（地址和搜索栏） |UI对齐到设计图| 
+| 6.多功能框（地址和搜索栏） |UI对齐到设计图| ![1d647a3dbac0fca5c48ec984189781ad](https://user-images.githubusercontent.com/6630660/230350361-662066f3-8a27-4400-99e3-890609ee4fc6.png) | ![b3c06bbbc3dc5c8f7a8b86725d64b12d](https://user-images.githubusercontent.com/6630660/230350568-475a2b6d-58e0-456b-acab-c97afe8a9c1f.png) |
 |  |在中文输入法输入候选词回车后应保留英文继续输入，不要直接跳转| 
 | 7.多功能框建议列表 |搜索建议（从当前打开的标签页）|
 |  | 搜索建议（来自搜索引擎） |
