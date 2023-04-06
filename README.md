@@ -14,7 +14,7 @@
 |  | 在文件夹中打开下载项 |
 |  | 暂停、继续、取消、重新开始下载 |
 |  | 获取和展示下载进度 |
-| 3.历史记录| UI对齐到设计图 |   | ![image](https://user-images.githubusercontent.com/6630660/230348799-dc039034-561b-43bf-a5cf-839d3530e07b.png)
+| 3.历史记录| UI对齐到设计图 | ![image](https://user-images.githubusercontent.com/6630660/230349092-ac1cc70b-16e1-432d-94db-760e9f623e0d.png) | ![image](https://user-images.githubusercontent.com/6630660/230348799-dc039034-561b-43bf-a5cf-839d3530e07b.png)
 |  | 展示为列表项 |   | ![image](https://user-images.githubusercontent.com/6630660/230348799-dc039034-561b-43bf-a5cf-839d3530e07b.png)
 |  | 展示为缩略图 |
 |  | 展示为带缩略图的列表项 |
